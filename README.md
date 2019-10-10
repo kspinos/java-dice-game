@@ -1,14 +1,16 @@
+PROJECT
+
 java dice game
 
-Description
+DESCRIPTION
 
   A simple java dice game with win/loss calculator.
   
-Usage
+USAGE
 
   Download and open dice.java file in an IDE (Eclipse/Textpad) and run it.
   
-Version
+VERSION
 
   0.0.1
   
