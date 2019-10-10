@@ -14,4 +14,4 @@ VERSION
 
   0.0.1
   
-  Might add draw/points in a later version.
+  Might add draw/points calculations in a later version.
